@@ -1,0 +1,100 @@
+{"knowledge": [3, 4], "history": "打 什么 电话 ， 你 瘾 过 够 没", "response": "你 打 电话 我 不 接 ， 你 打 它 有 啥 用 啊 ？"}
+{"knowledge": [1, 1], "history": "祝 老爷 生日 快乐", "response": "谢谢 同 是 人 龟 家族 的 麻米 小 朋友"}
+{"knowledge": [5, 5], "history": "十 月 十二 咯 。 玩具 展 。 到时 看 你 有空 没 咯", "response": "来 几 天 晚上 也 有空 的 哈 哈哈"}
+{"knowledge": [5, 5], "history": "3 你 也 玩 微博 了 ？ 哈哈 乐 死 我 了 ！ 2", "response": "高兴 九 好 ！"}
+{"knowledge": [0, 1], "history": "榴莲 糍", "response": "超 好吃 . . ."}
+{"knowledge": [0, 5], "history": "是 一 大堆", "response": "哈哈 ， 是 呀 那 头 人形 猪 令 我 太 烦躁 了 ！"}
+{"knowledge": [0, 3], "history": "认识 不同 行业 的 人 ，", "response": "乞丐 都 系 一 份 至高 无 尝 噶 职业 ， 你 敢 去 做 咩 。 五 臭 叼"}
+{"knowledge": [3, 0], "history": "呵呵 其实 上网 要是 没事 做 的 话 也 是 很 无聊 的", "response": "真的 是 没事 可 做 。"}
+{"knowledge": [5, 5], "history": "生 快 哈 ， 迟到 的 生日 祝福 ！", "response": "谢谢 ， 嘿嘿 ！"}
+{"knowledge": [5, 5], "history": "哈哈 。 还 真的 爆 风雨 啊", "response": "哈哈 ， 我们 都 是 重心 不 稳 的 人 吃饭 了 吗 ？"}
+{"knowledge": [5, 0], "history": "方 生生 快 ， 快点 回来 陪", "response": "割接 中 ， 预计 下周 回来"}
+{"knowledge": [0, 1], "history": "懂 少女 心理 的 楠 姐 .", "response": "恩 ， 我 懂 ！"}
+{"knowledge": [1, 5], "history": "生意兴隆 啊", "response": "就是 就是 要 好 哈 。 哈哈 。 回来 就 来 照顾 我 生意 哈 。"}
+{"knowledge": [0, 0], "history": "这些 女 朋友 干 的 比较 多", "response": "是 的 ， 所以 要 向 恋爱 中 的 女生 学习 。"}
+{"knowledge": [1, 3], "history": "她 是 美丽 女神 ！", "response": "得 潘 爷 如此 厚重 之 言 ， 诚惶诚恐 ！ 唯 诺诺 而 羞 ！"}
+{"knowledge": [2, 4], "history": "我 爸 老 问 我 海珠 湖 在 哪 ！ 哥 没 答 上 ！ 羞愧 !", "response": "我 叫 他 自己 明天 看 采访 车 ， 忽悠 他 了 ！"}
+{"knowledge": [3, 0], "history": "什么 啊", "response": "视频 里 说 的 少 了 两 个 字 领养 的 孩子 ~"}
+{"knowledge": [3, 2], "history": "短发 啥 时 ? 这么 爱美 的 你 怎 啥 得", "response": "唉 ， 去年 年 前 的 事 啦"}
+{"knowledge": [0, 5], "history": "谁 以前 说 不 喜欢 骷髅 的 ！", "response": "现在 我 是 重 口味 ， 哈哈 。"}
+{"knowledge": [3, 0], "history": "发 点 有 食欲 点 的 好 么 ！", "response": "闲 几 年糕 汤 ， 面 道 交 观 好"}
+{"knowledge": [3, 4], "history": "传言 也 是 个人 观点 ， 何必 去 纠正 呢 ？ ！", "response": "谁 去 纠正 了 再说 我 对 我 自己 说 纠正 自己 不行 吗"}
+{"knowledge": [0, 1], "history": "明晚 翻 学校 。", "response": "好 的 ， 岭南 欢迎 你 ~ ！"}
+{"knowledge": [4, 3], "history": "什么 情况 ！ ！", "response": "各种 不 好吃 啊"}
+{"knowledge": [1, 1], "history": "加油 加油 ！ 受 你 的 鼓舞 我们 明天 要 去 梁 皇宝 忏 了 。 很 期待 。", "response": "谢谢 你们 热情 周到 的 照顾 这次 澳洲 之 行 太 好 了"}
+{"knowledge": [1, 1], "history": "我 朋友 的", "response": "很 牛 很 强大 。 。"}
+{"knowledge": [4, 5], "history": "在 李刚 家 发呆 被 警察 击毙 了 … 我 招 谁 惹 谁 了", "response": "哈哈 ！ 不过 我 愿意 和 你 换 ~ 你 愿意 乜 ？"}
+{"knowledge": [5, 3], "history": "别 忘 了 我家 朵朵 的 啊 哈哈 你 会 不会 杀 了 我 我 天天 烦 你", "response": "你 那 580 的 4 张 应该 没 问题 ， 位置 也 说 了 ， 主要 那 低价 票 比较 少"}
+{"knowledge": [1, 2], "history": "你 还有 魄力 竟然 能 听 完 厉害 厉害 不愧 是 诗人", "response": "我 只是 好奇 最后 结果 是 不是 被 门夹 死 了 ， 最后 无 悬念 ， 确实 被 门夹 死 了"}
+{"knowledge": [0, 5], "history": "追 完了 ？", "response": "终于 完 啦 ， 哈 哈哈 ！"}
+{"knowledge": [0, 2], "history": "惠州 这边 下 很 大 雨 ， 那边 天气 怎样 啊", "response": "我 回到 家 啦 ， 那边 没 怎么 下"}
+{"knowledge": [3, 1], "history": "吃 精 着 点 呗 别 胡 吃 牛肉 鱼肉 低 脂肪 的", "response": "哦 哦 ， 这样 啊 ， 呵呵"}
+{"knowledge": [1, 5], "history": "你 终究 还是 忍不住 放 帅哥 照片 啦 哈哈", "response": "哈 哈哈 我 忘 说 还 能 证明 一点 就是 “ 女人 的确 都 是 花痴 ” 我 是 花痴 之 一"}
+{"knowledge": [2, 2], "history": "她 哭 了 吗 好 舍 不得", "response": "哭 了 我 愿意 时候 哭 了 好 心疼"}
+{"knowledge": [1, 3], "history": "这个 看 上去 真 好吃 ， 哪 吃 的", "response": "东 三环 的 盐 色 ， 典型 的 不 好吃 又 贵 的 。"}
+{"knowledge": [2, 5], "history": "这 也 是 为 你们 女生 着 想 啊 ， 可 害 苦 了 我们 ！", "response": "哈 哈哈 ， 你们 男生 也 吃不起 了"}
+{"knowledge": [0, 3], "history": "你 懂 的 。 。 。", "response": "我 姓 董 恶 伐 懂 啥 您 懂 啊 ？"}
+{"knowledge": [1, 1], "history": "今天 第 二 首 就 唱 了 这 首 歌 ， 很 好听", "response": "哦 侧 那 偶像 没有 看到"}
+{"knowledge": [0, 4], "history": "恩 ， 这 是 其中 一个 环节 。", "response": "现在 还要 拿 立案 证明 吗 ？"}
+{"knowledge": [2, 2], "history": "唐 老师 ， 大 过节 的 ， 可否 暂时 不 去 理会 这些 沉重 的 事情 ？", "response": "对 很多 人 来说 ， 节日 好过 ， 日子 难过 。"}
+{"knowledge": [0, 1], "history": "抨击", "response": "哦 也 . 没的说 , 姐们 儿 挺 你 ."}
+{"knowledge": [5, 5], "history": "我 笑 了 … …", "response": "笑 吧 多 笑 总是 好 的"}
+{"knowledge": [4, 4], "history": "你好 鬼 孤寒 阿 居然 要 我 地 一 条 鱼 蛋 5 人 分 。", "response": "粘 好 ！ ！ 你 死 咯 你 无害 人家 觉觉 误会 我 哈"}
+{"knowledge": [0, 1], "history": "还有 一个 美女 是 谁", "response": "和 搭档 过 城市 私家 车 的 佳佳 ， 刚烈 女子 ， 正义 感 女王 ， 你 伤 不 起 啊"}
+{"knowledge": [1, 0], "history": "真 行 啊 你", "response": "同事 姐姐 老公 送来 的 ， 我 跟着 曾 吃 曾 喝"}
+{"knowledge": [2, 3], "history": "唉 ， 好好 的 一 枚 帅哥 ， 为何 要 走 上 这 条 不 归路 ~", "response": "怎么 会 这样 呢 ？ 唔 通 像 商业 总 经理 郭总 看齐 ？"}
+{"knowledge": [0, 0], "history": "电话", "response": "有 个 人 在 等待 。"}
+{"knowledge": [3, 3], "history": "没 得 吃 啊 ， 饿 着 呗 …", "response": "找 别的 吃 啦 ! 别 学 西瓜 和 四 奶 这样 病 到 啊"}
+{"knowledge": [1, 1], "history": "有空 一定 去 旁听 每次 听 森 哥 讲 世界 经济 都 有 新 的 收获", "response": "给 我 这么 高 的 评价 呀 ！"}
+{"knowledge": [2, 2], "history": "真的 吗 ? 不 舍得 阿", "response": "真的 ！ 我 也 觉得 好 不 舍得 ！"}
+{"knowledge": [0, 0], "history": "我 认得 你 在 说 哪个 男人 ！", "response": "一 天 就 只 知道 乱说 。"}
+{"knowledge": [3, 5], "history": "筛 盅 啊 伐 要 用 了 先进 满 先进 额 ！", "response": "哈哈 ！ 。 亲爱 的 我 想 你 了 ！"}
+{"knowledge": [0, 0], "history": "二锅头 三百 毫升 ， 随时 服 下 ， 马 上 实现 ！", "response": "31 集 ， 加 戏 ！"}
+{"knowledge": [4, 3], "history": "反正 我 也 信 了 。 这 句 话 好 讥讽 啊 ！ 哈哈", "response": "不是 讥讽 ， 而是 自信 。 别 误解"}
+{"knowledge": [2, 2], "history": "我 都 热 醒 了 ！", "response": "我 一宿 还 没 睡 呢 ， 还 那么 有 精力 呀 ~ 我 的 天呀 。"}
+{"knowledge": [1, 5], "history": "同感 ， 真 败兴 。 还是 让 韩 老师 来 吧 。", "response": "听 大 嘴 韩 的 解说 可以 醒 瞌睡 ， 嘻嘻 ~"}
+{"knowledge": [0, 0], "history": "是 呀 ， 咱们 也 去 小街 吧", "response": "可以 加 一 场 ， 周三 或者 周四 晚上"}
+{"knowledge": [5, 5], "history": "下班 回到 家 啦 ？", "response": "恩 ， 回来 咯 ， 准备 去 洗澡 了 哦 ， 好 累 哦"}
+{"knowledge": [5, 2], "history": "那 又 好 啦 ？", "response": "唉 一言难尽 啊 . . ."}
+{"knowledge": [4, 1], "history": "不 告诉 你 你 你 ！ ！ ！", "response": "真的 要 离开 了 吧 ？ 30 又 少 了 个 人 了 ， 要 加油 啊 番薯 恩 ！"}
+{"knowledge": [0, 1], "history": "嗯 、 不过 是 大学 ，", "response": "年轻 就是 好 啊"}
+{"knowledge": [3, 3], "history": "请问 啥 机器 ？ 酸奶 机能 做 纳豆 ？", "response": "就 那个 红 元帅 的 ， 酸奶 机 一般 做不了 纳豆 ， 可能 发酵 温度 不够 ， 拉 不 出来 丝"}
+{"knowledge": [0, 0], "history": "曹 掌门", "response": "你 每天 晚上 数 一 数 就 知道 了"}
+{"knowledge": [0, 3], "history": "北海 对面 的 烤 鸡翅 不 不错 ， 不过 人 太多 总是 排队 比较 烦人", "response": "你们 对 美食 可 真 敏感 啊 ！"}
+{"knowledge": [0, 0], "history": "夜里 安静 ， 不 被 打扰 。", "response": "可以 静静 的 思考 ， 写出 人间 的 不平 ！"}
+{"knowledge": [3, 3], "history": "说 真话 是 做人 的 起码 准则 ， 难道 讲 真话 也 是 奢侈 吗 ？", "response": "不是 说 真话 不 对 ， 而是 肯 有 可能 在 避重就轻 。 而且 在 掩盖 什么 东西 ？"}
+{"knowledge": [1, 3], "history": "你 喜欢 看 步步 惊心 啊 ？", "response": "不 ， 我 觉得 电视 机 拍 的 挺 一般 的 。 随便 看看 而已"}
+{"knowledge": [3, 3], "history": "应该 老 百姓 每个 人 轮流 当 首相 ， 社会 就 更 稳定 了", "response": "中国 就 乱 了 ， 让 中国 人 有 那么 多 民主 还 真 不会 用"}
+{"knowledge": [1, 1], "history": "如果 你 能 带 她 去 很多 地方 ， 我 会 很 乐意 的 ， 想必 小 闹钟 也 会 很 开心 的", "response": "这 是 真的 爱 一样 东西 啊 ！"}
+{"knowledge": [3, 3], "history": "这样 的 一级 作家 , 不 知道 怎么 混 来 的 . 忘 八 耻 的 典型 代表 .", "response": "这样 的 痞子 ， 还是 体制 内 的 研究 员 ？"}
+{"knowledge": [3, 5], "history": "我 宿舍 都 饮 起码 你 唔 住宿", "response": "哈哈 。 你 喝 的 菌 比 我 多"}
+{"knowledge": [3, 4], "history": "那 不是 你 的 脚 啦 ， 是 的 ， 你 眼花 啦 兔子", "response": "我 一时 快手 打 错 , 对不起 了 . 我 乱 认 你 了"}
+{"knowledge": [4, 3], "history": "我们 去 办 健身 卡 ？ ？", "response": "不 办 卡 ， 浪费 钱 ， 想 别的"}
+{"knowledge": [0, 0], "history": "好吃 吗 ？ 下次 我 去 帮 称 下 ！", "response": "吃 过 才 知道 哦"}
+{"knowledge": [0, 0], "history": "你 懂 的 我 也 一样", "response": "懂得 懂得 思 密 达"}
+{"knowledge": [1, 5], "history": "下次 把 后面 的 电脑 屏幕 关掉 比较 好 ， 要不 煞 风景 啊 煞 风景 ~", "response": "哈 哈哈 是 哈 下次 注意"}
+{"knowledge": [5, 3], "history": "哈哈 ， 你 反正 就是 比 ， 有 木 有 ！", "response": "你 再 嘴硬 也 改变 不 了 你 是 比 的 客观 事实 。"}
+{"knowledge": [5, 4], "history": "我 车 你 就 有 咯 ， 哈 ！", "response": "就 系 叫 你 车 我 哇 ， 死 变态 佬"}
+{"knowledge": [1, 1], "history": "那 买 包 七 个 小 矮人 , 颜色 又 多 味道 又 多", "response": "没 更 童真 得 咩 ~ 但是 我 喜欢 ！"}
+{"knowledge": [1, 1], "history": "亲 ， 你 是 人气 美食 吗", "response": "亲 ， 是 的 哦 ~ 订阅 本 微薄 可 包 邮 哦 ~"}
+{"knowledge": [5, 5], "history": "哈哈 ， 知道 啦 ， 你 都 是 啊 。", "response": "哈哈 ， 我 会"}
+{"knowledge": [2, 2], "history": "没有 门票 怎么 去 ！ 哭 阿 ！", "response": "可怜 的 妹 纸 . . ."}
+{"knowledge": [1, 0], "history": "睡姿 不 对 ， 仰卧 会 好 点", "response": "就是 仰卧 ， 是 传说 中 的 鬼压身 那种"}
+{"knowledge": [3, 1], "history": "你 这 评论 已经 很 打击 我 去 影院 看 的 兴趣 了", "response": "还 行 啦 ， 看 个 热闹 。 还是 有人 对 它 评价 不错 的 ~"}
+{"knowledge": [3, 0], "history": "毕竟 你们 能 用 的 空域 有限 ， 理解 ！", "response": "空域 只是 其中 一个 因素 ， 其实 最 重要 的 是 飞行 和 管制 之间 的 相互 信任"}
+{"knowledge": [0, 2], "history": "来 。 走 一个 ~", "response": "小 蜗 可 不会 喝 白 的 ~ 会 不会 很 丢人 呀 ？"}
+{"knowledge": [0, 3], "history": "孟 老师 没空 理 你 的 。 。 。", "response": "你 怎么 就 知道 ， 哼 ， 你 跟 他 又 不 熟"}
+{"knowledge": [4, 5], "history": "不要 喷饭 啊 ！", "response": "笑 死 我 咯 ！"}
+{"knowledge": [3, 0], "history": "难怪 人家 称 你 为 杜 师爷 呢 ， 哈哈", "response": "唐 老师 认为 有 道理 ？ 哈哈"}
+{"knowledge": [5, 0], "history": "了解 了 = = 斯 内裤 大 老板 同学 哈哈 。", "response": "正 解 ！ 话 说 小 日本 的 发音 就是 如此 神奇"}
+{"knowledge": [1, 5], "history": "真的 很 像 呢 ！", "response": "要 不要 我 带 个 回 南京 实物 鉴定 哈 呀 ， 哈哈 … …"}
+{"knowledge": [4, 0], "history": "肿 么 了 肿 么 了 这 是 ！ ！ ！", "response": "那 记者 眼神 有 问题 。"}
+{"knowledge": [2, 2], "history": "们 卡 上 还有 几百 块 怎么 办 呢 ？", "response": "哎 ！ 忙 再说 ！"}
+{"knowledge": [2, 2], "history": "你 的 11 路 比 跑车 还 快 啊 … ！ 哈哈", "response": "哎 ！ 惭愧 惭愧 ！"}
+{"knowledge": [0, 0], "history": "昨天 就 知道 了 ， 完全 是 向着 一 场 政治 秀 前进 ！", "response": "说明 你 我 兄弟 之前 的 判断 ， 奇 准 。"}
+{"knowledge": [4, 5], "history": "打 了 一 分钟 挂 了 ， 诅咒 他 老婆 坏 掉 ！ ！", "response": "哈哈 ！ 活该 ！"}
+{"knowledge": [5, 5], "history": "小 日子 够 惬意 的 呀", "response": "哈哈 ， 其实 前 两 天 那个 芝麻 糖 土豆 泥 最好 吃 ， 哪 天 你 来 我家 让 他 给 咱 做"}
+{"knowledge": [0, 5], "history": "把 耳朵 眼睛 鼻子 一起 关 起", "response": "哈哈 就是 关 起"}
+{"knowledge": [0, 0], "history": "系 就 即刻 跳 海 死 左 距 罗 !", "response": "你 通知 红 姐 星期 二 赏脸 去 食 饭"}
+{"knowledge": [5, 5], "history": "果然 无敌 啦 你", "response": "哈哈 你 现在 才 知道 呀 ? !"}
+{"knowledge": [1, 1], "history": "三 岁 的 娃娃 来 按 门铃 ， 肯定 灰 常 可爱 ！ 哈哈 ~", "response": "是 啊 ！ 超 可爱 的 小 正太 ！ 看到 所有 狗 狗 都 叫 猪肝 。"}

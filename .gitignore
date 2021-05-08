@@ -1,0 +1,11 @@
+.idea/
+*.pyc
+*.zip
+*.docx
+*.tar.gz
+__pycache__
+.DS_STORE
+datasets/output
+datasets/Dialog_testA
+output
+unified_transformer-12L-cn

@@ -1,0 +1,100 @@
+{"conversation": ["晚上 泡个 热水 脚 ， 喝杯 纯牛奶 会 好点 。 不泡 脚 ， 喝牛奶 才 是 重点 。 我 也 随时 睡不着 ， 就 喝牛奶 就 好些", "今晚 试试 喃 ～ 脑壳 晕 的 很"], "goal": [], "knowledge": []}
+{"conversation": ["注定 看不到 今天 的 夕阳 了", "你 在 哪"], "goal": [], "knowledge": []}
+{"conversation": ["我 已经 死 了", "我 没 穿 呢 。"], "goal": [], "knowledge": []}
+{"conversation": ["快 来看 桃花 ， 我 等 着 你", "看 了 都 没得 桃花运"], "goal": [], "knowledge": []}
+{"conversation": ["你 陪 我 一起 脱", "我要 读书 ！", "装 什么 学霸 - -"], "goal": [], "knowledge": []}
+{"conversation": ["钱包 是不是 一 紧 ！ ！", "不要 说 出来"], "goal": [], "knowledge": []}
+{"conversation": ["生快 哈", "嘿嘿 谢 啦 ～"], "goal": [], "knowledge": []}
+{"conversation": ["我 就是 背 了 一个 胖子 的 名 ， 中看 不中用", "好 事情 ， 你 摸 悲观 嘛", "恩 ， 必须 是 好 事情 ， 否则 我 肯定 要 疯"], "goal": [], "knowledge": []}
+{"conversation": ["下 星期五 来 我们 家", "吃晚饭 下十 五子棋"], "goal": [], "knowledge": []}
+{"conversation": ["想起 女票 说 她们 学校 看见 有人 中午 在 车上 放 了 一瓶 水 ， 刚好 车停 在 水 房门口 ， 然后 就 有 同学 把 暖壶 放上去 了 … 下午 的 时候 车上 已经 五六个 暖壶 了", "哈哈哈 呵呵 呵"], "goal": [], "knowledge": []}
+{"conversation": ["我们 00 后 比 90 后 有 爱心 ， 是 有 希望 的 一代 ， 不是 垮掉 的 一代 。", "90 后 咋 滴 你 了"], "goal": [], "knowledge": []}
+{"conversation": ["你 个 脑比人 打 了 一枪 ？", "在 我 心上 用力 地开 一枪 ， 让 一切 归零 在 这声 巨响"], "goal": [], "knowledge": []}
+{"conversation": ["你 竟然 可以 一年 只 喝 两次 奶茶 ！ ！ ！", "我 太懒 了"], "goal": [], "knowledge": []}
+{"conversation": ["低帮 有 吗 蹲 低 帮", "杨 总", "哈哈哈哈 巧 啦"], "goal": [], "knowledge": []}
+{"conversation": ["我 觉得 在 南方 的 冬天 才 是 一个 星期 洗 一次 澡", "是 的 是 的 ， 北方 孩子 到 南方 冬天 拒绝 洗澡 瓦", "是 的 ， 我 在 南方 上学 恨不得 一个 冬天 不 洗澡"], "goal": [], "knowledge": []}
+{"conversation": ["宝贝 ， 现在 怎么 都 不 更新 啦", "这 不 今儿 刚 更 了 么"], "goal": [], "knowledge": []}
+{"conversation": ["你 这个 原色 咋 又 回来 了", "掉色 掉 的 了 ， 我 也 很 无奈"], "goal": [], "knowledge": []}
+{"conversation": ["小 壁虎 很狂 到处 乱窜 怎么办 的 八卦", "我 都 把 牠 赶到 比较 高 的 地方 以防 没 注意 去 伤 到 牠"], "goal": [], "knowledge": []}
+{"conversation": ["我们 局长 想 逮捕 你", "我 说服 他 遣送 你 回国"], "goal": [], "knowledge": []}
+{"conversation": ["原来 二哥 你 喜好 后门 啊 。 。 。", "人生 是 有 捷径 的"], "goal": [], "knowledge": []}
+{"conversation": ["脑子 是 个 好 东西 可惜 是 颗 植物", "别 侮辱 植物"], "goal": [], "knowledge": []}
+{"conversation": ["毛 都 没得 ， 好丑", "你 有 毛 ， 你 好看 惨 了"], "goal": [], "knowledge": []}
+{"conversation": ["今太热 了", "热 的 不想 出门", "我 都 晒 太 黑 了", "我 是 宋 小宝 同款"], "goal": [], "knowledge": []}
+{"conversation": ["之前 他 和 黄小 琥来 成都 有 一个 公益 歌友会 我 还有 去 看 你 是 我 的 眼 我 唱 最 大声 还 被 他 点名 他 笑 说 刚刚 谁 唱 最 大声 哈哈哈 哈哈哈", "他 好像 也 是 主打 台语歌 是不是", "嗯 他 台语歌 比较 多", "还有 一首 就是 末班车"], "goal": [], "knowledge": []}
+{"conversation": ["我 觉得 你 很 用心 我 很 喜欢 你 的 妆容", "那 我 就 只 给 你 看 哈哈哈"], "goal": [], "knowledge": []}
+{"conversation": ["再见 啊 大黑", "小心 我 给 你 泼 泥水 。"], "goal": [], "knowledge": []}
+{"conversation": ["短发 像 个 男 的 ？ 帅 吧", "不男不女 的"], "goal": [], "knowledge": []}
+{"conversation": ["大渣 男 心疼 苏 蓉蓉 想 和 苏 蓉蓉 百合 毕竟 一起 喝 了 七盏 茶 呢", "辣鸡 楚留香", "我 之前 还 送 过 他 礼物 心疼 我 自己", "我 也 送 了 ！"], "goal": [], "knowledge": []}
+{"conversation": ["晚安", "你 的 世界 是 颠倒 的 吗 ？ 半夜 才 出现 ？"], "goal": [], "knowledge": []}
+{"conversation": ["回来 了 不 吭气 噢", "当天 就 走 了 就 吃 了 午饭"], "goal": [], "knowledge": []}
+{"conversation": ["早安 哦", "没劲"], "goal": [], "knowledge": []}
+{"conversation": ["打乒乓球 呢", "基本上 是 废 了 发现 一个 新 的 甜品店 ， 你 回来 立马 联系 我", "好 嘞 话 说 我 昨晚 上 还 梦 到 咱们 一起 相约 去 甜品店 呢"], "goal": [], "knowledge": []}
+{"conversation": ["大润发 满 38 加 10 兑换 的 公仔", "送 我 了", "给 你 给 你 ， 辣 眼睛 ， 我 不要", "明天 给 我"], "goal": [], "knowledge": []}
+{"conversation": ["下车", "车速 太快 下 不了", "开 下去"], "goal": [], "knowledge": []}
+{"conversation": ["我要 跟 你 谈谈", "好 啊"], "goal": [], "knowledge": []}
+{"conversation": ["如果 把 这个 相亲 女 换成 一个 清秀 小哥 ， 不知 他 还 会 不会 这么 回复", "哪来 的 如果"], "goal": [], "knowledge": []}
+{"conversation": ["你 肥来 啦 红鞋子 同款 ！ 我 是 黑 的", "我 也 有 黑 的 ～"], "goal": [], "knowledge": []}
+{"conversation": ["你 好像 发福 了", "人到中年", "你 干嘛 还 不 睡"], "goal": [], "knowledge": []}
+{"conversation": ["想 吃 ！ 有 酒 吗 ！", "当然 有 酒 撒"], "goal": [], "knowledge": []}
+{"conversation": ["那个 船 咋 翻 了 呐", "它 一个 想不通"], "goal": [], "knowledge": []}
+{"conversation": ["四级 考 不过 ， 安慰 下 自己", "不要 沮丧 啊 。 。 。 四级 不要 你 我要 你"], "goal": [], "knowledge": []}
+{"conversation": ["她 越 得意 她 的 男朋友 糊 的 越 快", "真相 了"], "goal": [], "knowledge": []}
+{"conversation": ["什么 食堂 还 能 预定 鸡蛋 呢", "我 实在 是 不想 排队 了"], "goal": [], "knowledge": []}
+{"conversation": ["坐等", "躺 送 你", "嘛 ？", "送上 热门", "不用 不用", "都 不用 你 回复 都 能 上去", "你们 聊", "我们 聊 ， 你 下 了 吧", "得 嘞"], "goal": [], "knowledge": []}
+{"conversation": ["我要 在 你 锁骨 那里 游泳", "顺便 养个 鱼 ？"], "goal": [], "knowledge": []}
+{"conversation": ["看来 北京 应该 对 外来人口 有所 限制 了 ， 否则 人满为患 。", "我 总 觉得 有 的 地方 好 可怕 , 住 了 那么 多人 , 如果 大家 都 下楼 ， 会 不会 没有 地方 站 ! ？", "会 哦 ！"], "goal": [], "knowledge": []}
+{"conversation": ["我 整个 寒假 都 有事 好气 啊", "说 的 我 好像 没事 一样", "你 要 相亲 么"], "goal": [], "knowledge": []}
+{"conversation": ["昨晚 喝醉 了", "哈哈 看 吧 你 就 不 应该 让 我 猜 的", "那 你 别 猜 了", "那 你 告诉 我 啊", "咳咳", "我 总是 直击 事件 真相", "你 觉得 有", "酒量 可以 继续 开发"], "goal": [], "knowledge": []}
+{"conversation": ["感觉 今年 好多 紫色 卫衣 的 身影", "因为 显白 又 好看"], "goal": [], "knowledge": []}
+{"conversation": ["口红 好看", "难道 不 夸 我 皂片 好看 ？ ？", "人 好看 快 夸 我", "爱 你 一万年"], "goal": [], "knowledge": []}
+{"conversation": ["晚安", "晚安 , 睡 吧"], "goal": [], "knowledge": []}
+{"conversation": ["屏幕 指纹 一点 都 不灵", "重新 录入"], "goal": [], "knowledge": []}
+{"conversation": ["第一次", "太 诡异 了", "为啥"], "goal": [], "knowledge": []}
+{"conversation": ["你 是 哪儿 的 ？", "没 标记 位置 吗"], "goal": [], "knowledge": []}
+{"conversation": ["缓 过来 了 么", "昨晚 我们 在 做 游戏 ， 下次 把 你 带上", "不带 不是 人"], "goal": [], "knowledge": []}
+{"conversation": ["水果 我 都 还 没吃过 ！", "感觉 还是 经典 的 最 好吃 之前 蛋挞 出果 馅儿 的 就 觉得 不 好吃"], "goal": [], "knowledge": []}
+{"conversation": ["不 值得 花钱 去 看 我 不 知道 为啥 有人 会 哭 我 反正 没 感触", "只 看 了 书 和 电视剧 觉得 还好", "嗯 呢"], "goal": [], "knowledge": []}
+{"conversation": ["还 处于 青春期", "是 的 … … … . 我 表示 压力 很大"], "goal": [], "knowledge": []}
+{"conversation": ["文艺 少女", "嗯 呐 ～"], "goal": [], "knowledge": []}
+{"conversation": ["生日快乐", "我 又 小 一岁", "该 上 幼儿园 了 吧"], "goal": [], "knowledge": []}
+{"conversation": ["有 难度 … … 我 天天 想着 挑战 一个月 不 喝咖啡 ， 可是 今天 已经 是 连续 喝咖啡 第 30 天 了 … …", "喝咖啡 还 可以 提神 喝 奶茶 除了 长胖 一无是处", "加油"], "goal": [], "knowledge": []}
+{"conversation": ["自恋", "咋 了 ？ 我 啥 都 没 做"], "goal": [], "knowledge": []}
+{"conversation": ["宝贝 晚上 好", "晚上 好"], "goal": [], "knowledge": []}
+{"conversation": ["防晒 那个 没看 懂 …", "因 该是 表示 涂 了 一层 黑色 的 膜 在 脸上 起到 防晒 作用"], "goal": [], "knowledge": []}
+{"conversation": ["遇到 你 这样 的 好 教员 好 老师 真是 福气", "您 过奖"], "goal": [], "knowledge": []}
+{"conversation": ["呵呵 ~ 你 还 在 备战 高考 好 吗 ~ 快回 高中 去 ！", "我 就是 在 宿舍 复习 语文 中 ， 没 看到 我 使用 了 正在 背 的 古诗文 嘛", "背错 了 好 吗 ~ ~ ~", "我 知道 是 月 ， 但是 我们 才 几天 没 出 太阳 ， 用 月 不 合适"], "goal": [], "knowledge": []}
+{"conversation": ["老师 不回 多 正常 呀 ， 那么 多 学生 。 我 记得 你 中会 过 了 呀", "过 是 过 了 啊 ， 主要 周 老师 对 我 很 照顾 。 。 你 懂 的 ！", "照顾 ？ 我 真心 不 懂 。 。 。"], "goal": [], "knowledge": []}
+{"conversation": ["为什么 我 不能 嫁给 薛之谦 ！ ！ ！ ！", "你 前面 有 我"], "goal": [], "knowledge": []}
+{"conversation": ["谁 能 告诉 我 是 什么 时候 ！ ！ ！ ！", "拿 糖 来 换", "没有"], "goal": [], "knowledge": []}
+{"conversation": ["超级 重 的 … … 第一次 觉得 8 寸 的 噶重", "那 我 买 个 小 的"], "goal": [], "knowledge": []}
+{"conversation": ["用钝 刀子 慢慢 割 ， 还 不许 上 麻药 ！", "我刚 要说"], "goal": [], "knowledge": []}
+{"conversation": ["好 想来 云南 我要 做客", "双手 双脚 欢迎"], "goal": [], "knowledge": []}
+{"conversation": ["分手 我 也 要 照相", "来来来 你 上来", "我 头发 没干"], "goal": [], "knowledge": []}
+{"conversation": ["摸摸 不 难过 了", "基友 么 小兄弟 3", "你 猜"], "goal": [], "knowledge": []}
+{"conversation": ["狗子 ， 几日 不见 ， 你 成网 红 了", "厉害 了 吧"], "goal": [], "knowledge": []}
+{"conversation": ["治安 好 不 ？", "好 啊 ， 博物馆 里面", "原来 在 里面 ， 怪不得 环境 这么 美 ～"], "goal": [], "knowledge": []}
+{"conversation": ["。 。 。 亲 。 。 。 你 难道 看不出 我 已 迷恋 到 无法自拔 了 么 。 。 。", "哈哈哈哈 ， 这个 可以 有 ， 没有 最深 只有 更深 ！ ！"], "goal": [], "knowledge": []}
+{"conversation": ["在 单位 呢 我 可是 要 上班 的 人 。", "为啥 那么 晚 还要 上班"], "goal": [], "knowledge": []}
+{"conversation": ["演 的 确实 好 但 你 不 觉得 加戏 过 了 吗 女 三成 了 女 一 还有 通稿 各种 艳压 本来 对 她 挺 有 好感 的 导致 现在 男女 主和片 方说 拜拜 了", "有 什么 谣言 你 还 就 信 什么 谣言 阿 呵呵 女三 戏份 比女 一多 ？ 歪曲事实 666", "你 才 是 个 没 主见 的 人 至少 我 是 看过 剧 客观 评价 的 你 呢 说话 过于 偏激 了 吧"], "goal": [], "knowledge": []}
+{"conversation": ["哈哈 ， 我们 原来 是 学术 帝 阿 ， 我 记性 超差 的 。 。 。 。", "哈哈 你 是 天才 小 才女"], "goal": [], "knowledge": []}
+{"conversation": ["我 记得 你 之前 在 上海 啊 ， 回 武汉 发展 了 ？", "回家 了 ， 然后 现在 去 上海 。"], "goal": [], "knowledge": []}
+{"conversation": ["床 看着 不错", "看 重点 ！"], "goal": [], "knowledge": []}
+{"conversation": ["喝醉 了", "并 没有 哈"], "goal": [], "knowledge": []}
+{"conversation": ["辽宁 舰 航行 一次 要 烧 多少 汽油 你 知道 吗 ？ 坐 一次 比 飞机 还贵 ！", "你 是 老实人 啊 她 的 意思 是 航母 打 过去"], "goal": [], "knowledge": []}
+{"conversation": ["要 叫 妈妈", "妈妈"], "goal": [], "knowledge": []}
+{"conversation": ["刚 毕业 就 结婚 了 ， 真不错", "额 ， 没 结婚 只是 拍 着 玩 的", "好 吧 ， 下次 活动 聚", "嗯 ， 好 的"], "goal": [], "knowledge": []}
+{"conversation": ["望 鹿哥 健健康康 ， 开开心心", "嗯 ， 愿 他 一生 平安 喜乐"], "goal": [], "knowledge": []}
+{"conversation": ["这 女人 为了 火 ， 真 卖命 ！", "我 给 她 p 的", "你 就是 幕后 推手 ！"], "goal": [], "knowledge": []}
+{"conversation": ["抱佛脚", "嗯 呐"], "goal": [], "knowledge": []}
+{"conversation": ["愚人节 没有 朋友 可以 戏弄 怎么办", "对 着 镜子 戏弄 自己 啊"], "goal": [], "knowledge": []}
+{"conversation": ["这个 学校 ， 真的 值得 向往 嘛 ？", "学校 宿舍 很 好"], "goal": [], "knowledge": []}
+{"conversation": ["为什么 还要 挨骂 呀 ？ 今天 不是 被 骂 过 了 吗 ？", "今天 我 不是 下班 了 都 没 啥 我 就 走 了 嘛 ， 以为 没事 ， 结果 刚到 家 电话 就 来 了 ， 给 我 说 了 一顿 ， 然后 说 明天 上班 再说 … …", "天 哪 ！ 那 你 就 放平 心态 ， 别 听到 脑子里 ， 反正 也 没 办法 反抗", "是 呢 ， 我 已经 决定 睡 了 。 不然 我 可能 会 秃 晚安", "哈哈哈 哈哈哈 好 的 ， 晚安 ！"], "goal": [], "knowledge": []}
+{"conversation": ["为什么 没有 时间 ！ 你 个 坏人 ！", "哈哈 人家 不是 怕 你 累 嘛", "你 懂 太 多 了 阔 怕"], "goal": [], "knowledge": []}
+{"conversation": ["欢迎", "晚饭 烧 起来 老子 去 你家", "老子 今晚 不 回家"], "goal": [], "knowledge": []}
+{"conversation": ["你 又 换 名字 啦", "对 啊 ， 以后 改名 先 跟 你 申请 啊"], "goal": [], "knowledge": []}
+{"conversation": ["十一 回家 给 我秀 一下 哦 ！ 我 把 头发 给 染黑 了 ~ ~ ~", "哎麻 ' 我 都 好几个 月 没整 头发 了 ' 嘎嘎"], "goal": [], "knowledge": []}
+{"conversation": ["我 特意 把 你 的 照片 翻 粗 来看 了 一眼 ， 在 哪里 ？ ！", "哈哈哈 ， 你 太 勤勉 了 … … 那 时候 堵 啦 ， 但是 堵 的 东西 掉 了 ， 于是 大 牙缝 再震 江湖 ～", "哈哈哈 ， 是 大 门牙 中间 的 缝儿 么 ？", "可不 ～ 不忍 直视 啊", "哦 ， 那 喝茶 隔 不了 茶渣 了 … … 我 也 想整 ， 但是 我 的 牙医 不让 我整 … … 不开森 … …"], "goal": [], "knowledge": []}
+{"conversation": ["和 你 坐 着 喝 喝酒", "不会 啊", "我 也 不会 瞎 喝 呗"], "goal": [], "knowledge": []}
+{"conversation": ["真 羡慕 能 到处 旅游 的 人", "胖死 了 出去 一圈"], "goal": [], "knowledge": []}
+{"conversation": ["同乐 同乐 〜 〜 〜", "嗯 嗯 这个 周末 可以 嗨 一下 了 哈哈"], "goal": [], "knowledge": []}
