@@ -2,7 +2,7 @@
 
 ## 1. 项目&任务介绍
 
-项目介绍【TODO】
+本项目基于官方给定的baseline（[**lics2021_baseline**](https://github.com/PaddlePaddle/PaddleNLP/tree/release/2.0-rc/examples/dialogue/lic2021_baseline)）进行二次改造，对整个代码框架做了重构，对数据加载部分做了注释说明，一些小的细节也做了改进。
 
 本次任务为[2021语言与智能技术竞赛](http://lic2021.ccf.org.cn/)：多技能对话任务，真实世界的人机交互同时涉及到多种对话技能，比如知识对话、推荐对话等。在人机对话中如何自然地融合多个对话技能，从而有效地提升用户体验，是一个重要的挑战。
 
