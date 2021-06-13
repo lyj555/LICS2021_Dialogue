@@ -50,18 +50,18 @@ if __name__ == "__main__":
         # ]
         [
             [
-                ["./datasets/Dialog_train/weibo_train.txt", tda.to_sample_for_weibo, False, False],
-                ["./datasets/Dialog_train/douban_train.txt", tda.to_sample_for_douban, False, False],
-                ["./datasets/Dialog_train/LCCC_train.json", tda.to_sample_for_lccc, False, False],
+                # ["./datasets/Dialog_train/weibo_train.txt", tda.to_sample_for_weibo, False, False],
+                # ["./datasets/Dialog_train/douban_train.txt", tda.to_sample_for_douban, False, False],
+                # ["./datasets/Dialog_train/LCCC_train.json", tda.to_sample_for_lccc, False, False],
                 ["./datasets/Dialog_train/duconv_train.txt", tda.to_sample_for_duconv, True, False],
-                ["./datasets/Dialog_train/kdconv_train.txt", tda.to_sample_for_kdconv, True, False],
-                ["./datasets/Dialog_train/tencent_train.txt", tda.to_sample_for_tencent, True, False],
+                # ["./datasets/Dialog_train/kdconv_train.txt", tda.to_sample_for_kdconv, True, False],
+                # ["./datasets/Dialog_train/tencent_train.txt", tda.to_sample_for_tencent, True, False],
                 ["./datasets/Dialog_train/DuRecDial_train.txt", tda.to_sample_for_durecdial, True, False],
                 ["./datasets/Dialog_train/Persona_train.json", tda.to_sample_for_persona, True, False],
-                ["./datasets/Dialog_train/Emotional_train.txt", tda.to_sample_for_emotional, True, False]
+                # ["./datasets/Dialog_train/Emotional_train.txt", tda.to_sample_for_emotional, True, False]
             ],
             "./datasets/output/train.txt",
-            50000,
+            100000,
         ],
         [
             [
@@ -69,14 +69,14 @@ if __name__ == "__main__":
                 ["./datasets/Dialog_dev/douban_dev.txt", tda.to_sample_for_douban, False, False],
                 ["./datasets/Dialog_dev/LCCC_dev.json", tda.to_sample_for_lccc, False, False],
                 ["./datasets/Dialog_dev/duconv_dev.txt", tda.to_sample_for_duconv, True, False],
-                ["./datasets/Dialog_dev/kdconv_dev.txt", tda.to_sample_for_kdconv, True, False],
-                ["./datasets/Dialog_dev/tencent_dev.txt", tda.to_sample_for_tencent, True, False],
+                # ["./datasets/Dialog_dev/kdconv_dev.txt", tda.to_sample_for_kdconv, True, False],
+                # ["./datasets/Dialog_dev/tencent_dev.txt", tda.to_sample_for_tencent, True, False],
                 ["./datasets/Dialog_dev/DuRecDial_dev.txt", tda.to_sample_for_durecdial, True, False],
                 ["./datasets/Dialog_dev/Persona_dev.json", tda.to_sample_for_persona, True, False],
-                ["./datasets/Dialog_dev/Emotional_dev.txt", tda.to_sample_for_emotional, True, False]
+                # ["./datasets/Dialog_dev/Emotional_dev.txt", tda.to_sample_for_emotional, True, False]
             ],
             "./datasets/output/dev.txt",
-            5000,
+            10000,
         ],
         [
             [
@@ -84,7 +84,16 @@ if __name__ == "__main__":
                 ["./datasets/Dialog_testA/DuRecDial_test.txt", tda.to_sample_for_durecdial, True, True],
                 ["./datasets/Dialog_testA/Persona_test.json", tda.to_sample_for_persona, True, True],
             ],
-            "./datasets/output/test.txt",
+            "./datasets/output/test1.txt",
+            0
+        ],
+        [
+            [
+                ["./datasets/Dialog_testB/duconv_testB.txt", tda.to_sample_for_duconv, True, True],
+                ["./datasets/Dialog_testB/DuRecDial_testB.txt", tda.to_sample_for_durecdial, True, True],
+                ["./datasets/Dialog_testB/Persona_testB.json", tda.to_sample_for_persona, True, True],
+            ],
+            "./datasets/output/test2.txt",
             0
         ],
     ]

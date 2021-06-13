@@ -670,6 +670,53 @@ bash bin/run_predict.sh <trained model path> <cpu or gpu> <test data path> <pyth
 
 - 调整训练数据
 
+  仅仅使用三部分数据（百度自建数据）做训练，展开后，共计240276条数据。
+
+  loss: 1.7037 - ppl: 5.4941 - 0.163s/step
+
+  线上分数：score 0.661
+
+- 调整预测策略（解码）
+
+  beam_search，为了减低out of gpu memory，调低batch_size为2，num_samples=10，num_beams=10。
+
+  线上分数：score 0.631
+
+- 调整预训练模型（目前最优）
+
+  使用预训练模型为luge，预测策略仍然为sampling
+
+  线上分数：score 0.717
+
+- 调整训练策略
+
+  仍然使用预训练模型luge，预测策略为sampling
+
+  学习率为1e-5，warmup steps为1000，epoch为3
+
+  线上分数：score 0.684
+
+  > Note：估计是epochs调低，学习率没有调整，导致学习不充分
+
+- 改变数据策略
+
+  使用分数为0.717的配置，将数据进行shuf操作，其余配置均不动。
+
+  线上分数：score 0.713
+
+- 改变解码策略
+
+  基于上面的模型，将num_samples由20调整为30，
+
+  线上分数：score 0.727
+
+- 加大数据量
+
+  将训练和验证的数据合并在一起训练，使用num_samples=20预测，结果为0.721（基于此模型对testB进行了预测，此时的num_samples=30）
+  
+- 使用其他数据预训练（post-train）
+
+  阈值为5w，共计45w条数据，epoch=3，基于luge模型二次微调；基于微调的模型+训练&验证数据训练，使用num_samples=10预测，最终线上的结果为0.713
 
 
 ## 6. 待优化点记录

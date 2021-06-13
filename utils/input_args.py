@@ -50,10 +50,10 @@ def parse_args(input_arg=None):
     parser.add_argument('--temperature', type=float, default=1.0,
                         help='The value used to module the next token probabilities.')
     parser.add_argument('--top_p', type=float, default=1.0, help='The cumulative probability for top-p sampling.')
-    parser.add_argument('--num_beams', type=int, default=0, help='The number of beams for beam search.')
+    parser.add_argument('--num_beams', type=int, default=30, help='The number of beams for beam search.')
     parser.add_argument('--length_penalty', type=float, default=1.0,
                         help='The exponential penalty to the sequence length for beam search.')
-    parser.add_argument('--early_stopping', type=eval, default=False,
+    parser.add_argument('--early_stopping', type=eval, default=True,
                         help='Whether to stop the beam search when at least `num_beams`'
                              ' sentences are finished per batch or not.')
 

@@ -38,6 +38,9 @@ mkdir -p $output_dir
 
 batch_size=2
 model_type="uniLM"
+# decode strategy
+decode_strategy="sampling"   # 'greedy_search', 'sampling', 'beam_search'
+
 
 # [2]. do predict
 ${python_path} ${project_dir}/run_dialogue.py \
@@ -47,3 +50,5 @@ ${python_path} ${project_dir}/run_dialogue.py \
     --device $device --model_type $model_type \
     --pretrained_model_path $pretrained_model_path \
     --batch_size $batch_size \
+    --decode_strategy $decode_strategy
+

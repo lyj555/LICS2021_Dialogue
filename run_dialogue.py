@@ -87,10 +87,8 @@ class ModelOperation(object):
         global_step = 0
         tic_train = time.time()
         for epoch in range(args.train_epochs):
-            step = 0
             for batch in train_data_loader:
-                logging.info(f"Epoch: {epoch+1}/{args.train_epochs}, step is {step}")
-                step += 1
+                # logging.info(f"Epoch: {epoch+1}/{args.train_epochs}, step is {step}")
                 global_step += 1
                 token_ids, type_ids, pos_ids, generation_mask, tgt_label, tgt_pos = batch
 
@@ -98,7 +96,7 @@ class ModelOperation(object):
                 loss = F.cross_entropy(logits, tgt_label)
 
                 if global_step % args.logging_steps == 0:
-                    logging.info(f"global step {global_step}, epoch: {epoch}, batch: {step},"
+                    logging.info(f"global step {global_step}, epoch: {epoch+1}/{args.train_epochs},"
                                  f" loss: {loss}, speed: {args.logging_steps / (time.time() - tic_train):.2f} step/s")
                     tic_train = time.time()
                 loss.backward()
